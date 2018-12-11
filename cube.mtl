@@ -1,4 +1,4 @@
-# Blender MTL File: 'None'
+# Blender MTL File: 'cube.blend'
 # Material Count: 1
 
 newmtl Material
@@ -10,4 +10,4 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/jamesfolk/Downloads/43287016_1843218315774366_4694619354422050816_n.jpg
+map_Kd /Users/jamesfolk/Work/test_project_repo/buildbot_macOS/gameproject/assets/images/test_diffuse.png
